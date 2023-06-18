@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Harshal-Study/v17
+/.vs
+/BuberDinner/.vs
+/BuberDinner/BuberDinner.Api/Properties
+/BuberDinner/BuberDinner.Api/obj
+/BuberDinner/BuberDinner.Application/obj
+/BuberDinner/BuberDinner.Contracts/obj
+/BuberDinner/BuberDinner.Infrastructure/obj
+/BuberDinner/BuberDinner.Domain/obj
+/BuberDinner/BuberDinner.Api/bin/Debug/net6.0
+/BuberDinner/BuberDinner.Application/bin/Debug/net6.0
+/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0
+/BuberDinner/BuberDinner.Domain/bin/Debug/net6.0
+/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0
